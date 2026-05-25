@@ -1,8 +1,26 @@
 # KiCad Symbol and Footprint for the WIZnet W6300-EVB-Pico2
 
-<img src="https://docs.wiznet.io/assets/images/w6300-evb-pico2-docs-836e9b64e0fb9d8b5365a435caa7f892.png" alt="WIZnet W6300-EVB-Pico2" width="600">
+<table>
+  <tr>
+    <td width="50%"><img src="images/W6300-EVB-Pico2-product.webp" alt="W6300-EVB-Pico2 (angled)" width="100%"></td>
+    <td width="50%"><img src="images/W6300-EVB-Pico2-top.jpg" alt="Top view" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="images/W6300-EVB-Pico2-bottom.jpg" alt="Bottom view" width="100%"></td>
+    <td width="50%"><img src="images/W6300-EVB-Pico2-scale.jpg" alt="Board next to a ruler" width="100%"></td>
+  </tr>
+</table>
 
-This repository contains a KiCad symbol, footprint and 3D model for the [WIZnet W6300-EVB-Pico2](https://docs.wiznet.io/Product/Chip/Ethernet/W6300/w6300-evb-pico2) — an RP2350 board with the W6300 10/100 Ethernet controller wired over QSPI, packaged in the Raspberry Pi Pico 2 form factor and extended on one short edge with an integrated RJ45 magjack.
+This repository contains a KiCad symbol, footprint and 3D model for the [WIZnet W6300-EVB-Pico2](https://docs.wiznet.io/Product/Chip/Ethernet/W6300/w6300-evb-pico2) — an RP2350 board with the W6300 10/100 Ethernet controller wired over QSPI, packaged in the Raspberry Pi Pico 2 form factor and extended on one short edge with an integrated RJ45 magjack. The board measures 80 × 21 mm.
+
+The KiCad symbol exposes the 40-pin Pico 2 header plus the three SWD test points, with combined labels (`GP18/QSPI_IO0`, `GP22/RSTn`, etc.) on the eight pins that the W6300 occupies internally. The footprint is a 2×20 through-hole header at 2.54 mm pitch with castellated keyhole pads, so the module can be mounted either through a 2.54 mm pin header or surface-mounted directly onto a carrier PCB.
+
+<table>
+  <tr>
+    <td width="40%" align="center"><img src="images/W6300-EVB-Pico2-symbol.png" alt="KiCad symbol" width="100%"></td>
+    <td width="60%" align="center"><img src="images/W6300-EVB-Pico2-footprint.png" alt="KiCad footprint" width="100%"></td>
+  </tr>
+</table>
 
 ## Installing this library
 
