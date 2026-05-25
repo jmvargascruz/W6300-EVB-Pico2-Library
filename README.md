@@ -2,12 +2,12 @@
 
 <table>
   <tr>
-    <td width="50%"><img src="images/W6300-EVB-Pico2-product.webp" alt="W6300-EVB-Pico2 (angled)" width="100%"></td>
-    <td width="50%"><img src="images/W6300-EVB-Pico2-top.jpg" alt="Top view" width="100%"></td>
+    <td><img src="images/W6300-EVB-Pico2-product.webp" alt="W6300-EVB-Pico2 (angled)" width="260"></td>
+    <td><img src="images/W6300-EVB-Pico2-top.jpg" alt="Top view" width="260"></td>
   </tr>
   <tr>
-    <td width="50%"><img src="images/W6300-EVB-Pico2-bottom.jpg" alt="Bottom view" width="100%"></td>
-    <td width="50%"><img src="images/W6300-EVB-Pico2-scale.jpg" alt="Board next to a ruler" width="100%"></td>
+    <td><img src="images/W6300-EVB-Pico2-bottom.jpg" alt="Bottom view" width="260"></td>
+    <td><img src="images/W6300-EVB-Pico2-scale.jpg" alt="Board next to a ruler" width="260"></td>
   </tr>
 </table>
 
