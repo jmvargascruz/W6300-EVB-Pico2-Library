@@ -1,5 +1,8 @@
 # KiCad Symbol and Footprint for the WIZnet W6300-EVB-Pico2
 
+> [!NOTE]
+> También disponible en [español](README.es.md).
+
 <table>
   <tr>
     <td><img src="images/W6300-EVB-Pico2-product.webp" alt="W6300-EVB-Pico2 (angled)" width="260"></td>
