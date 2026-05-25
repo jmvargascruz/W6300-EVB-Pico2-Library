@@ -17,7 +17,7 @@ The KiCad symbol exposes the 40-pin Pico 2 header plus the three SWD test points
 
 <table>
   <tr>
-    <td width="40%" align="center"><img src="images/W6300-EVB-Pico2-symbol.png" alt="KiCad symbol" width="100%"></td>
+    <td width="40%" align="center"><img src="images/W6300-EVB-Pico2-symbol.jpg" alt="KiCad symbol" width="100%"></td>
     <td width="60%" align="center"><img src="images/W6300-EVB-Pico2-footprint.png" alt="KiCad footprint" width="100%"></td>
   </tr>
 </table>
